@@ -14,7 +14,7 @@
 /target/classes
 
 # Package Files #
-*.jar
+
 *.war
 *.nar
 *.ear
